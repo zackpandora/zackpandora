@@ -1,5 +1,5 @@
 - a c++ , c# programmer
-- still a begginer
+- still a beginer
 - discord : @somebodywithalongusername
 
 <!---
