@@ -1,4 +1,5 @@
-- a c++ , c# programmer
+- a c++ programmer
+- about to learn java
 - still a beginer
 - discord : @somebodywithalongusername
 
