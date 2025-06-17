@@ -1,6 +1,6 @@
 - a c++ , python programmer
 - about to learn java
-- still a beginer
+- still a beginner
 - discord : @somebodywithalongusername
 
   where are my repos?
