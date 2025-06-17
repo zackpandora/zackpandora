@@ -1,4 +1,4 @@
-- a c++ programmer
+- a c++ , python programmer
 - about to learn java
 - still a beginer
 - discord : @somebodywithalongusername
