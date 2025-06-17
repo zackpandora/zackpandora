@@ -3,8 +3,8 @@
 - still a beginer
 - discord : @somebodywithalongusername
 
-- where are my repos?
-- they're private ofc
+  where are my repos?
+  they're private ofc
 
 <!---
 zackpandora/zackpandora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
