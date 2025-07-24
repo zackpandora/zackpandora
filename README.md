@@ -1,6 +1,8 @@
-- a c++ , python programmer
-- about to learn java
+- a c++ , python and gdscript programmer
+- about to learn C
 - discord : @somebodywithalongusername
+
+- cant really call myself decent at coding till i learn a low level language
 
  - where are my repos?
    well they're private ofc
