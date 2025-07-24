@@ -2,9 +2,10 @@
 - about to learn java
 - discord : @somebodywithalongusername
 
-  where are my repos?
+ - where are my repos?
    well they're private ofc
-  am i good at coding?
+  
+ - am i good at coding?
    hell no
 
 <!---
