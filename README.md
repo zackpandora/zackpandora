@@ -1,10 +1,11 @@
 - a c++ , python programmer
 - about to learn java
-- still a beginner
 - discord : @somebodywithalongusername
 
   where are my repos?
    well they're private ofc
+  am i good at coding?
+   hell no
 
 <!---
 zackpandora/zackpandora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
