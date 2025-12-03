@@ -9,6 +9,8 @@
   
  - am i good at coding?
    hell no
+   But ami decent?
+   Hell yeah
 
 <!---
 zackpandora/zackpandora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
