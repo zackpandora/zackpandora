@@ -2,14 +2,14 @@
 - about to learn C
 - discord : @somebodywithalongusername
 
-- cant really call myself decent at coding till i learn a low level language
+- cant really call myself good at coding till i learn a low level language
 
  - where are my repos?
    well they're private ofc
   
  - am i good at coding?
-   hell no
-   But ami decent?
+   hell no, 
+   But am i decent?
    Hell yeah
 
 <!---
